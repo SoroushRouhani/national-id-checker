@@ -16,7 +16,7 @@ The national code is a 10-digit number. The first three digits from the left ind
 
 * For example:
 
-Input: /?id=0049557025 
+Input: /?id=0049557025 (You can use the Postman to get the result)
 
 Output: 
 {
